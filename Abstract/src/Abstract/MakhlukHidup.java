@@ -1,7 +1,5 @@
 package Abstract;
 
-import javax.swing.plaf.PanelUI;
-
 abstract class MakhlukHidup {
     public void berdiri(){
     }
